@@ -2,9 +2,13 @@
 
 This project is the first of the SEI course. We’re supposed to create a playable game from the browser using HTML, CSS and JavaScript.
 
+Note: you can find an upgraded version of this project (post course) on these links:
+- version 2 repository: https://github.com/gael37/Bootcamp-Project1-JungleFrogger-v2
+- version 2 deployment link: https://gael-duchesne-jungle-frogger-v2.netlify.app
+
 # Deployment link
 
-https://gael-duchesne-jungle-frogger.netlify.app/
+https://gael-duchesne-jungle-frogger-v1.netlify.app
 
 # Timeframe & Working Team (Solo/Pair/Group)
 
